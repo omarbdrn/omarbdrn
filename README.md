@@ -1,4 +1,4 @@
-<img align="left" width="10%" src="[https://media.tenor.com/Ej3BJBhwt_0AAAAM/cute-kitty.gif](https://octodex.github.com/images/daftpunktocat-guy.gif)">
+<img align="left" width="20%" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 <br><br><br><br>
 
 ### Hey!
