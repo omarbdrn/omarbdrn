@@ -1,4 +1,4 @@
-<img align="left" width="20%" src="https://media.tenor.com/Ej3BJBhwt_0AAAAM/cute-kitty.gif">
+<img align="left" width="10%" src="https://media.tenor.com/Ej3BJBhwt_0AAAAM/cute-kitty.gif">
 
 ### Hey!
 
