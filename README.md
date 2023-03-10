@@ -9,7 +9,7 @@ I'm Omar, a passionate software engineer and likes to **write code** and **break
 [![rate](https://img.shields.io/badge/Coffee-100%25-brown)](https://omarbdrn.github.io/)
 [![rate](https://img.shields.io/badge/Depressed-100%25-black)](https://omarbdrn.github.io/)
 
-<br><br><br>
+<br>
 
 I'm a passionate security researcher and software engineer started at the age of 10, Doing it as a hobby mainly working on Security Researchers and Security Projects.
 
