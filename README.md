@@ -17,3 +17,4 @@ I help some companies with their security.
 Feel free to reach me at [Email Address](mailto:omarbdrn@kaytaq.com) about **job-related** matters.
 
 Live life like it's your last day!
+![Profile views](https://gpvc.arturio.dev/omarbdrn) 
