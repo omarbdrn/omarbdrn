@@ -11,7 +11,7 @@ I'm Omar, a passionate software engineer and likes to **write code** and **break
 
 <br>
 
-I'm a passionate security researcher and software engineer started at the age of 10, Doing it as a hobby mainly working on Security Researchers and Security Projects.
+I'm a passionate security researcher and software engineer started at the age of 10, Doing it as a hobby mainly working on Security Researches and Security Projects.
 
 I help some companies with their security.
 Feel free to reach me at [Email Address](mailto:omarbdrn@kaytaq.com) about **job-related** matters.
