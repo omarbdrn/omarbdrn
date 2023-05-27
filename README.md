@@ -3,7 +3,7 @@
 
 ### Hey!
 
-I'm Omar, a passionate software engineer and likes to **write code** and **break stuff**.
+I'm Omar, a passionate software engineer that likes to **write code** and **break stuff**.
 
 [![rate](https://img.shields.io/badge/Passion-100%25-red)](https://omarbdrn.github.io/)
 [![rate](https://img.shields.io/badge/Coffee-100%25-brown)](https://omarbdrn.github.io/)
@@ -11,10 +11,10 @@ I'm Omar, a passionate software engineer and likes to **write code** and **break
 
 <br>
 
-I'm a passionate security researcher and software engineer started at the age of 10, Doing it as a hobby mainly working on Security Researches and Security Projects.
+I'm a passionate security researcher and software engineer started at the age of 10, Doing it as a hobby mainly working on Security Projects for the sake of helping others.
 
 I help some companies with their security.
-Feel free to reach me at [Email Address](mailto:omarbdrn@kaytaq.com) about **job-related** matters.
+Feel free to reach me at [Email Address](mailto:omarbdrn@defendops.com) about **job-related** matters.
 
 Live life like it's your last day!
 
