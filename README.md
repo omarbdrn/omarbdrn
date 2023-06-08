@@ -18,4 +18,4 @@ Feel free to reach me at [Email Address](mailto:omarbdrn@defendops.com) about **
 
 Live life like it's your last day!
 
-![Profile views](https://gpvc.arturio.dev/omarbdrn) 
+
