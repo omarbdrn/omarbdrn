@@ -5,7 +5,7 @@
 <div>
 <h1>Hey!</h1>
 
-I'm Omar, just someone who likes computer sciences and likes to **write code** and **break stuff**.
+I'm Omar, just someone who likes computer science and likes to **write code** and **break stuff**.
 
 [![rate](https://img.shields.io/badge/Passion-100%25-red)](https://omarbdrn.github.io/)
 [![rate](https://img.shields.io/badge/Coffee-100%25-brown)](https://omarbdrn.github.io/)
