@@ -7,14 +7,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/omarbdrn?style=social)
 
 - 🔭 I'm currently working as a Software Engineer and Pentester, specializing in application security and penetration testing.
-- 🧠 Experienced in building robust systems for application security, utilizing technologies like GoLang, Python, Docker, and Kubernetes.
-- 🛡️ Skilled in designing secure architectures and implementing security measures in both traditional and cloud-native environments.
-- 🌱 Currently diving deeper into AWS Cloud services to enhance my cloud security expertise.
-- 👯 I'm always open to collaborate on projects related to system security, pentesting, and ML-driven security solutions.
-- 💬 Ask me about development, machine learning, finance, depression and system security.
-- 📫 You can reach me at omarbdrn [at] defendops.com.
-- 😄 Pronouns: nick/her
-- 👾 State: Busy at the moment.
+- Experienced in building robust systems for application security, utilizing technologies like GoLang, Python, Docker, and Kubernetes.
+- Skilled in designing secure architectures and implementing security measures in both traditional and cloud-native environments.
+- Currently diving deeper into AWS Cloud services to enhance my cloud security expertise.
+- I'm always open to collaborate on projects related to system security, pentesting, and ML-driven security solutions.
+- Ask me about development, machine learning, finance, depression and system security.
+- You can reach me at omarbdrn [at] defendops.com.
+- State: Busy at the moment.
 
 
 ## Stuff i've used before
